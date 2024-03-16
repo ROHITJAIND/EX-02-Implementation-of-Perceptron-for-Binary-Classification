@@ -1,6 +1,6 @@
 # EX-02 Implementation of Perceptron for Binary Classification
 ### Aim:
-To implement a perceptron for classification using Python.
+To implement a perceptron for classification using Python.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:**
 ### EQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
@@ -44,8 +44,8 @@ STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 ### PROGRAM:
 ```Python
-import numpy as np
-import pandas as pd
+import numpy as np                                                      Developed By: ROHIT JAIN D
+import pandas as pd                                                     Register No: 212222230120
 import matplotlib.pyplot as plt
 from mpl_toolkits import mplot3d
 from sklearn.model_selection import train_test_split
